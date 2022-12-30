@@ -4,6 +4,7 @@ import { LightModeOutlined, DarkModeOutlined, Menu as MenuIcon, Search, Settings
 function Navbar() {
     return (
         <div>Navbar</div>
+
     )
 }
 
